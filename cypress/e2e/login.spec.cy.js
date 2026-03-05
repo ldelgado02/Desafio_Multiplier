@@ -40,7 +40,7 @@ describe('Fluxo de Cadastro e Login', () => {
     });
   });
 
-    context('Cenário 4 - Cadastro com campo vazio', () => {
+    context('Cenário 4 - Login com campo vazio', () => {
     it('Deve informar mensagem de erro nos campos obrigatórios inválidos', () => {
       loginPage.accessLoginPage();
       loginPage.loginWithAnyUser('arroz', 'feijao');
