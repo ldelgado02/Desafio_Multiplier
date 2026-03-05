@@ -1,0 +1,11 @@
+{
+    "userSucess" : {
+      "email": "luisgustavo220602@gmail.com",
+      "senha": "Gu@220602"
+    },
+
+    "userFail" : { 
+      "email": "TesteFalho@gmail.com",
+      "senha": "Teste12345"
+    }
+}
